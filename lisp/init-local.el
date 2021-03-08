@@ -33,5 +33,16 @@
 
 ;;; Mu4e
 
+;;; Themes
+(setq custom-enabled-themes '(night-owl))
+
+
+;;; Modeline
+(require 'doom-modeline)
+(doom-modeline-mode 1)
+
+(setq doom-modeline-minor-modes t)
+(setq doom-modeline-mu4e t)
+
 (provide 'init-local)
 ;;; init-local.el ends here

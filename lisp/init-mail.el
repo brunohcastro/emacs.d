@@ -63,9 +63,9 @@
           :vars '((user-mail-address              . "henrique.castro@codeminer42.com" )
                   (user-full-name                 . "Bruno Henrique de Castro" )
                   (mu4e-compose-signature         . (concat "Bruno Henrique de Castro\n"
-                                                            "Full Stack Software Engineer @ Codeminer42\n"
+                                                            "Software Developer @ Codeminer42\n"
                                                             "henrique.castro@codeminer42.com\n"
-                                                            "+55 (84) 99927-4646"))
+                                                            "+55 (84) 98859-0237"))
                   (mu4e-sent-folder               . "/henrique.castro@codeminer42.com/[Gmail].E-mails enviados")
                   (mu4e-drafts-folder             . "/henrique.castro@codeminer42.com/[Gmail].Rascunhos")
                   (mu4e-trash-folder              . "/henrique.castro@codeminer42.com/[Gmail].Lixeira")
@@ -81,8 +81,7 @@
           :vars '((user-mail-address              . "brunohcastro@hotmail.com" )
                   (user-full-name                 . "Bruno H. de Castro" )
                   (mu4e-compose-signature         . (concat "Bruno H. de Castro\n"
-                                                            "Desenvolvedor | CSL Soluções em Informática\n"
-                                                            "Estudante Engenharia Elétrica | UFRN\n"
+                                                            "Software Developer @ Codeminer42\n"
                                                             "brunohcastro@hotmail.com\n"
                                                             "+55 (84) 99927-4646"))
                   (mu4e-sent-folder               . "/brunohcastro@hotmail.com/Sent")
